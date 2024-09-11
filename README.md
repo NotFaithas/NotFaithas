@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NotFaithas
 - 👀 I’m interested in improving my skills
-- 🌱 I’m currently learning Python and JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me NIKAK
+- 🌱 I’m currently learning Python and Java
+- 📫 How to reach me: NIKAK
 
 <!---
 NotFaithas/NotFaithas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
